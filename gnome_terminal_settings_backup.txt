@@ -1,0 +1,7 @@
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+exit-action='hold'
+use-theme-transparency=false
+visible-name='Starter'
+
+[legacy]
+schema-version=uint32 3
